@@ -1,0 +1,2 @@
+docker image tag vuejs-cookbook/dockerize-vuejs-app 128.199.192.85:5000/app-vue-ssr/master:0.0.2
+docker push 128.199.192.85:5000/app-vue-ssr/master:0.0.2
